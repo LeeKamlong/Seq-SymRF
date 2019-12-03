@@ -13,7 +13,11 @@ for i=1:length(m)
     P(i,127:448)=Sym(n(i),:);
 end
 pr=sum(P)/length(P);
-
+[x,y]=find(MDA==0);
+for i=1:length(x)
+    UN(i,1:126)=feature(x(i),:);
+    UN(i,127:448)=Sym(y(i),:);
+end
 for i=1:length(UN)
     d=0;
     for j=1:448
