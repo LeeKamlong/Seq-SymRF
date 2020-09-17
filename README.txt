@@ -25,4 +25,4 @@ How to predict the miRNA or disease which I want:
     (1）Obtain the symptom score from the disease-symptom network
     (2) Combine the disease feature with miRNA feature
     (3)Prediction
- %% If you have any questions, please contact me zhanchao8052@gdpu.edu.cn (Prof.Li) and ceszxy@mail.sysu.edu.cn (Prof.Zhou).
+ %% If you have any questions, please contact me zhanchao8052@gdpu.edu.cn (Prof.Li) and ceszxy@mail.sysu.edu.cn (Prof.Zou).
